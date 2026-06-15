@@ -1,0 +1,11 @@
+[
+  {"sub_category": "Craft Beer",              "category": "Beer"},
+  {"sub_category": "Variety Packs",           "category": "Beer"},
+  {"sub_category": "Classic Lager",           "category": "Beer"},
+  {"sub_category": "Light Lager",             "category": "Beer"},
+  {"sub_category": "Cider",                   "category": "Hard Beverage"},
+  {"sub_category": "Hard Seltzers",           "category": "Hard Beverage"},
+  {"sub_category": "Ready to Drink",          "category": "Hard Beverage"},
+  {"sub_category": "Flavored Hard Beverages", "category": "Hard Beverage"},
+  {"sub_category": "Non-alcoholic Beer",      "category": "Non-alcoholic Beer"}
+]

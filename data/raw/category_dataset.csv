@@ -1,0 +1,909 @@
+product_name,predicted_sub_category,category,source,confidence,sub_confidence,timestamp,corrected
+Craft Beer,Craft Beer,Beer,seed,,,2026-05-11T13:29:43,False
+Flavored Hard Beverages,Flavored Hard Beverages,Hard Beverage,seed,,,2026-05-11T13:29:43,False
+Ready to Drink,Ready to Drink,Hard Beverage,seed,,,2026-05-11T13:29:43,False
+Hard Seltzers,Hard Seltzers,Hard Beverage,seed,,,2026-05-11T13:29:43,False
+Non-alcoholic Beer,Non-alcoholic Beer,Non-alcoholic Beer,seed,,,2026-05-11T13:29:43,False
+Light Lager,Light Lager,Beer,seed,,,2026-05-11T13:29:43,False
+Classic Lager,Classic Lager,Beer,seed,,,2026-05-11T13:29:43,False
+Variety Packs,Variety Packs,Beer,seed,,,2026-05-11T13:29:43,False
+Cider,Cider,Hard Beverage,seed,,,2026-05-11T13:29:43,False
+Angry Orchard Rose-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4081632653061224,2026-05-22T10:56:41,False
+Corona Extra-24oz Can,Craft Beer,Beer,llm,0.8,0.3636363636363636,2026-05-22T11:09:43,False
+Domaine Presidente Chateauneuf du Pape Blanc-750ml,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3529411764705882,2026-05-22T11:10:26,False
+Four Peaks Bad Birdie-1/6 Keg,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3829787234042554,2026-05-22T11:10:56,False
+Bud Light Lime Mang-O-Rita Sparkling Margarita 25 fl oz,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3174603174603174,2026-05-22T10:57:01,False
+Ghost Hawk Eradicator-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3461538461538461,2026-05-22T11:11:49,False
+Ghost Town Seasonal 1-4pk-16oz Cans,Ready to Drink,Hard Beverage,llm,0.6,0.3255813953488372,2026-05-22T11:12:00,False
+Four Peaks Cosmic Daydream-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3157894736842105,2026-05-22T11:11:03,False
+Corona Bluetooth Can Speaker,Hard Seltzers,Hard Beverage,llm,0.2,0.3902439024390244,2026-05-22T11:09:27,False
+Corona Extra Coronita-24-7oz Btls,Craft Beer,Beer,llm,0.8,0.3529411764705882,2026-05-22T11:09:31,False
+DNU Michelob Ultra Pomegranate-12pk-12oz Cans,Classic Lager,Beer,llm,0.8,0.3555555555555555,2026-05-22T11:10:18,False
+Cisco Grey Lady-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.391304347826087,2026-05-22T10:57:36,False
+Golden Road Strawberry Daiquiri Hard Smoothie-4pk-12oz Cans,Hard Seltzers,Hard Beverage,llm,0.9,0.4705882352941177,2026-05-22T11:12:39,False
+Angry Orchard Forbidden Fruit Orchard Sangria-4pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3823529411764705,2026-05-22T10:56:40,False
+Golden Road Street Cart-19oz cans,Ready to Drink,Hard Beverage,llm,0.6,0.3720930232558139,2026-05-22T11:12:46,False
+Coors Light In Bottles - 12-12 FZ,Craft Beer,Beer,llm,0.8,0.3243243243243243,2026-05-22T10:57:51,False
+Corona Extra Holiday Slim Can-12pk-12oz Cans,Classic Lager,Beer,llm,0.8,0.3181818181818181,2026-05-22T11:09:33,False
+Golden Road Fuit Cart Mixer - 15-12 Fl. Oz.,Ready to Drink,Hard Beverage,llm,0.6,0.2857142857142857,2026-05-22T11:12:11,False
+Goose Island 312 Lemonade Shandy-15pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3809523809523809,2026-05-22T11:12:50,False
+Estrella Jalisco Spicy Pina Michelada-25oz Can,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3076923076923077,2026-05-22T11:10:42,False
+Fay Hallam - Corona - Rock - CD,Ready to Drink,Hard Beverage,llm,0.2,0.3902439024390244,2026-05-22T11:10:49,False
+Corona Extra-12pk-12oz Btls,Craft Beer,Beer,llm,0.8,0.4347826086956521,2026-05-22T11:09:38,False
+Corona Familiar-32oz Btl,Craft Beer,Beer,llm,0.8,0.4,2026-05-22T11:09:56,False
+Four Peaks Bad Birdie In Cans - 19.2 FZ,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3225806451612903,2026-05-22T11:10:53,False
+Corona Extra-1/4 Keg,Craft Beer,Beer,llm,0.8,0.4,2026-05-22T11:09:35,False
+Four Peaks The Joy Bus Wow-12pk-12oz Btls,Variety Packs,Beer,llm,0.8,0.2553191489361703,2026-05-22T11:11:32,False
+Topo Chico Sabores Raspberry Lemon - 12 Oz,Non-alcoholic Beer,Non-alcoholic Beer,llm,0.2,0.2592592592592592,2026-05-22T10:56:45,False
+Golden Road Oktoberfest Bier Cans - 6-12 Fl. Oz.,Craft Beer,Beer,llm,0.8,0.32,2026-05-22T11:12:28,False
+Beats Senses Mixed Berry-7.5oz Can,Hard Seltzers,Hard Beverage,llm,0.6,0.3636363636363636,2026-05-22T10:56:47,False
+Budweiser Select 55-12pk-12oz Cans,Craft Beer,Beer,llm,0.8,0.4666666666666666,2026-05-22T10:57:19,False
+Golden Road Street Cart-12pk-12oz Cans,Ready to Drink,Hard Beverage,llm,0.4,0.3555555555555555,2026-05-22T11:12:43,False
+Corona del Valle Malbec-750ml,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3404255319148936,2026-05-22T11:10:12,False
+Corona Extra-24oz btl,Craft Beer,Beer,llm,0.8,0.4545454545454545,2026-05-22T11:09:47,False
+Ghost Hawk Ravendark-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3921568627450981,2026-05-22T11:11:51,False
+Golden Road Mango Cart-12pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3773584905660377,2026-05-22T11:12:23,False
+Estrella Jalisco-6pk-16oz Cans,Light Lager,Beer,llm,0.8,0.3428571428571429,2026-05-22T11:10:46,False
+Devils Backbone O'Fest-12pk-12oz Cans,Variety Packs,Beer,llm,0.8,0.4186046511627907,2026-05-22T11:10:23,False
+Golden Road Pina Colada Hard Smoothie-4pk-12oz Cans,Hard Seltzers,Hard Beverage,llm,0.7,0.4705882352941177,2026-05-22T11:12:30,False
+Four Peaks Masskrug Monsoon-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3103448275862068,2026-05-22T11:11:14,False
+Golden Road Mango Cart-25oz Can,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.36,2026-05-22T11:12:25,False
+Corona aus Sicht eines Okkultisten,Hard Seltzers,Hard Beverage,llm,0.4,0.3404255319148936,2026-05-22T11:10:07,False
+Elysian Split Shot-1/6 Keg,Hard Seltzers,Hard Beverage,llm,0.6,0.2941176470588235,2026-05-22T11:10:35,False
+Coors Light Retro Box-24-12oz Btls,Variety Packs,Beer,llm,0.9,0.3243243243243243,2026-05-22T10:57:56,False
+Angry Orchard Imperial-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4150943396226415,2026-05-22T10:56:40,False
+Budweiser Bottle,Craft Beer,Beer,llm,0.8,0.3076923076923077,2026-05-22T10:57:06,False
+Angry Orchard Imperial-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4150943396226415,2026-05-22T10:56:40,False
+Coors Light-18-12oz Cans,Classic Lager,Beer,llm,0.9,0.3571428571428571,2026-05-22T10:58:22,False
+Coors Light-12pk-12oz Btls,Craft Beer,Beer,llm,0.9,0.3636363636363636,2026-05-22T10:58:05,False
+"Franziskaner Hefeweizen, 6 Pack 12 fl. oz. Bottles, 5% ABV",Variety Packs,Beer,llm,0.9,0.2545454545454545,2026-05-22T11:11:42,False
+Four Peaks Kilty Pleasures-12pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3508771929824562,2026-05-22T11:11:12,False
+Topo Chico Sabores Lime with Mint Extract 12oz 8pk,Non-alcoholic Beer,Non-alcoholic Beer,llm,0.2,0.2711864406779661,2026-05-22T10:56:44,False
+Four Peaks Pub Pack-15pk-12oz Cans,Variety Packs,Beer,llm,0.8,0.3,2026-05-22T11:11:19,False
+Franziskaner Imported Premium Hefeweizen Weissbier Bottles,Classic Lager,Beer,llm,0.9,0.2592592592592592,2026-05-22T11:11:44,False
+Corona Extra-12pk-12oz Cans,Classic Lager,Beer,llm,0.8,0.3846153846153846,2026-05-22T11:09:40,False
+Coors Light-24-8oz Cans,Classic Lager,Beer,llm,0.9,0.3571428571428571,2026-05-22T10:58:43,False
+NUTRL Peach Vodka Seltzer 4 pack 12 fl oz Cans 4.5% ABV,Hard Seltzers,Hard Beverage,llm,0.9,0.3846153846153846,2026-05-11T13:57:00,False
+Coors Light Keg-1/2 Keg,Variety Packs,Beer,llm,0.9,0.32,2026-05-22T10:57:53,False
+Alvarium Hurricane-4pk-16oz Cans,Ready to Drink,Hard Beverage,llm,0.6,0.3,2026-05-22T10:56:46,False
+"Domaine de la Presidente Chateauneuf du Pape Nonciature Blanc, 2022-750ml",Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3296703296703296,2026-05-22T11:10:28,False
+Four Peaks Pub Pack In Can - 15-12 Fl. Oz.,Ready to Drink,Hard Beverage,llm,0.6,0.3333333333333332,2026-05-22T11:11:17,False
+Four Peaks Kilt Lifter-12pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.339622641509434,2026-05-22T11:11:07,False
+Estrella Jalisco Mango Michelada-8pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3492063492063492,2026-05-22T11:10:40,False
+Corona Refresca Guava Hard Tropical Punch 4.5% ABV Can - 24 Fl. Oz.,Hard Seltzers,Hard Beverage,llm,0.8,0.4705882352941177,2026-05-22T11:10:01,False
+Four Peaks The Joy Bus Wow-6pk-12oz Cans,Craft Beer,Beer,llm,0.8,0.2727272727272726,2026-05-22T11:11:35,False
+Bud Light 4.2% ABV Lime In Can - 25 Fl. Oz.,Classic Lager,Beer,llm,0.9,0.2926829268292683,2026-05-22T10:56:48,False
+Corona New Mexico 4 X 2.25-Inch Vinyl Decal Stiker Retro Neon Design,Ready to Drink,Hard Beverage,llm,0.3,0.2702702702702703,2026-05-22T11:09:58,False
+Four Peaks Bad Birdie-15pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3846153846153846,2026-05-22T11:10:58,False
+Golden Road Fruit Cart Mixer-15pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3050847457627118,2026-05-22T11:12:09,False
+Goose Island 312 Urban Wheat-15pk-12oz Cans,Classic Lager,Beer,llm,0.9,0.3265306122448979,2026-05-22T11:12:59,False
+Corona Bluetooth Bottle Speaker,Flavored Hard Beverages,Hard Beverage,llm,0.4,0.3333333333333332,2026-05-22T11:09:24,False
+Corona Familiar-24oz Can,Classic Lager,Beer,llm,0.8,0.4242424242424242,2026-05-22T11:09:54,False
+Coors Light-36-12oz Cans,Classic Lager,Beer,llm,0.9,0.3571428571428571,2026-05-22T10:58:50,False
+Coors Light-1/2 Keg,Craft Beer,Beer,llm,0.9,0.3157894736842105,2026-05-22T10:57:58,False
+Corona Extra-24oz Can - 3 pack,Craft Beer,Beer,llm,0.8,0.3636363636363636,2026-05-22T11:09:45,False
+Corona durchschreiten,Hard Seltzers,Hard Beverage,llm,0.4,0.3529411764705882,2026-05-22T11:10:14,False
+Coors Light-24-10oz Can,Classic Lager,Beer,llm,0.9,0.2962962962962963,2026-05-22T10:58:31,False
+Goose Island 312 Urban Wheat-12pk-12oz Btls,Light Lager,Beer,llm,0.8,0.2978723404255319,2026-05-22T11:12:57,False
+Golden Road Belgian White-12pk-12oz Btls,Light Lager,Beer,llm,0.8,0.3636363636363636,2026-05-22T11:12:02,False
+BeatBox Wine Cocktail Cherry Limeade (16.9 fl oz),Flavored Hard Beverages,Hard Beverage,llm,0.6,0.303030303030303,2026-05-11T13:57:01,False
+Coors Light-20-12oz Cans,Classic Lager,Beer,llm,0.9,0.3571428571428571,2026-05-22T10:58:29,False
+Corona Tropical Ss Pint 16oz - EA,Ready to Drink,Hard Beverage,llm,0.6,0.3809523809523809,2026-05-22T11:10:05,False
+Cisco Downhill Shredski-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3333333333333332,2026-05-22T10:57:31,False
+Golden Road Street Cart In Cans - 6-12 Fl. Oz.,Ready to Drink,Hard Beverage,llm,0.6,0.3461538461538461,2026-05-22T11:12:41,False
+Four Peaks Bad Birdie In Cans - 15-12FZ,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3225806451612903,2026-05-22T11:10:51,False
+Corona 5 ft. round,Ready to Drink,Hard Beverage,llm,0.2,0.375,2026-05-22T11:09:22,False
+Four Peaks Double Knot DIPA-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3103448275862068,2026-05-22T11:11:05,False
+Golden Road Wolf Among The Weeds-6pk-12oz Cans,Ready to Drink,Hard Beverage,llm,0.6,0.3333333333333332,2026-05-22T11:12:48,False
+Angry Orchard Crisp Light-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4081632653061224,2026-05-22T10:56:40,False
+White Claw Pineapple 6 Pack Can-6pk-12oz Cans,Hard Seltzers,Hard Beverage,llm,0.7,0.3111111111111111,2026-05-22T10:56:46,False
+Ghost Hawk Updraft Maibock-4pk-16oz Cans,Classic Lager,Beer,llm,0.8,0.3404255319148936,2026-05-22T11:11:55,False
+Four Peaks The Joy Bus Wow Wheat In Cans - 15-12 Fl. Oz.,Variety Packs,Beer,llm,0.8,0.2295081967213114,2026-05-22T11:11:30,False
+Topo Chico Hard Margarita Variety 12pk 12oz can,Hard Seltzers,Hard Beverage,llm,0.8,0.4705882352941177,2026-05-22T10:56:43,False
+Estrella Jalisco-6pk-12oz Btls,Light Lager,Beer,llm,0.8,0.3428571428571429,2026-05-22T11:10:44,False
+Coors Light-4pk-16oz Cans,Classic Lager,Beer,llm,0.9,0.4,2026-05-22T10:58:52,False
+Beck's-12pk-12oz Btls,Variety Packs,Beer,llm,0.8,0.3703703703703704,2026-05-22T10:56:47,False
+Golden Road Guava Cart-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3773584905660377,2026-05-22T11:12:13,False
+Coors Light-15-16oz AlmBtls,Craft Beer,Beer,llm,0.8,0.2857142857142857,2026-05-22T10:58:14,False
+Bud Light LSU Alum Bottle-20-16ozAlmBtl,Craft Beer,Beer,llm,0.8,0.186046511627907,2026-05-22T10:56:53,False
+Four Peaks Wow Wheat-1/6 Keg,Variety Packs,Beer,llm,0.8,0.3888888888888888,2026-05-22T11:11:37,False
+Four Peaks Bad Birdie-19.2oz Can,Ready to Drink,Hard Beverage,llm,0.6,0.3720930232558139,2026-05-22T11:11:00,False
+Corona Refresca Mas Tropical Berry-24oz Can,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3548387096774194,2026-05-22T11:10:03,False
+Topo Chico® Sabores Passionfruit Sparkling Water Cans 12 oz,Non-alcoholic Beer,Non-alcoholic Beer,llm,0.2,0.1971830985915492,2026-05-22T10:56:45,False
+Budweiser Gift Pack-12oz 6-Pack Bottle Gift,Variety Packs,Beer,llm,0.8,0.3404255319148936,2026-05-22T10:57:14,False
+Corona Extra-4pk-16oz Cans,Classic Lager,Beer,llm,0.8,0.3846153846153846,2026-05-22T11:09:49,False
+Four Peaks Kilt Lifter-15pk-12oz Cans,Hard Seltzers,Hard Beverage,llm,0.6,0.3720930232558139,2026-05-22T11:11:10,False
+Danish National Girls Choir - Corona - Music & Performance - CD,Ready to Drink,Hard Beverage,llm,0.2,0.2465753424657533,2026-05-22T11:10:21,False
+Goose Island 312 Shandy Variety-12pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3548387096774194,2026-05-22T11:12:52,False
+Coors Light-6pk-8oz Cans,Classic Lager,Beer,llm,0.9,0.4,2026-05-22T10:59:04,False
+Golden Road Christmas Cart-6pk-12oz Cans,Classic Lager,Beer,llm,0.8,0.3829787234042554,2026-05-22T11:12:07,False
+Busch 18 pack 12 oz cans,Craft Beer,Beer,llm,0.8,0.4,2026-05-22T10:56:41,False
+Golden Road Spicy Mango Cart-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3389830508474575,2026-05-22T11:12:35,False
+Four Peaks The Joy Bus Wow Wheat Bottles - 12-12 Fl. Oz.,Variety Packs,Beer,llm,0.7,0.2295081967213114,2026-05-22T11:11:28,False
+Bud Light Platinum Bottles - 18-12 Fl. Oz.,Craft Beer,Beer,llm,0.8,0.263157894736842,2026-05-22T10:57:03,False
+Angry Orchard Crisp Apple Can - 24 FZ,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4,2026-05-22T10:56:39,False
+Golden Road Mango Cart-1/2 Keg,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.375,2026-05-22T11:12:21,False
+Franziskaner Hefeweizen Bottle - 17 Fl. Oz.,Craft Beer,Beer,llm,0.8,0.2727272727272726,2026-05-22T11:11:39,False
+Cisco Grey Lady-12pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.391304347826087,2026-05-22T10:57:33,False
+Budweiser Original Chelada Can - 25 Fl. Oz.,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4166666666666666,2026-05-22T10:57:16,False
+Golden Road Pineapple Cart-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3508771929824562,2026-05-22T11:12:33,False
+Four Peaks Sunbru-1/6 Keg,Ready to Drink,Hard Beverage,llm,0.6,0.2941176470588235,2026-05-22T11:11:21,False
+Corona Extra Coronita-12pk-8oz Cans,Variety Packs,Beer,llm,0.8,0.3888888888888888,2026-05-22T11:09:29,False
+Golden Road Hazy Pup-6pk-12oz Cans,Classic Lager,Beer,llm,0.8,0.3414634146341463,2026-05-22T11:12:18,False
+Four Peaks Sunbru-15pk-12oz Cans,Variety Packs,Beer,llm,0.8,0.3157894736842105,2026-05-22T11:11:23,False
+Coors Light 25 Oz - 25 FZ,Craft Beer,Beer,llm,0.8,0.3478260869565217,2026-05-22T10:57:45,False
+Cisco Grey Lady-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.391304347826087,2026-05-22T10:57:38,False
+Angry Orchard Crisp Light In Cans - 6-12 Fl. Oz.,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3508771929824562,2026-05-22T10:56:39,False
+Bud Light Lemonade-25oz Can,Ready to Drink,Hard Beverage,llm,0.6,0.3870967741935484,2026-05-22T10:56:58,False
+Budweiser Chelada Picante-25oz Can,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4150943396226415,2026-05-22T10:57:09,False
+Golden Road Champango-4pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3461538461538461,2026-05-22T11:12:04,False
+Budweiser Chelada-25oz Can,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4444444444444444,2026-05-22T10:57:11,False
+Budweiser Supreme-6pk-12oz Btls,Craft Beer,Beer,llm,0.8,0.3428571428571429,2026-05-22T10:57:26,False
+Coors Light 6 Pack 12 Can,Craft Beer,Beer,llm,0.8,0.2666666666666667,2026-05-22T10:57:48,False
+"Topo Chico Sabores Passionfruit Cans, 12 fl oz, 8 Pack",Non-alcoholic Beer,Non-alcoholic Beer,llm,0.2,0.2456140350877193,2026-05-22T10:56:44,False
+Devils Backbone Orange Smash 7.5-4pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3492063492063492,2026-05-22T10:56:42,False
+Budweiser Select Retro Box-24-12oz Btls,Craft Beer,Beer,llm,0.8,0.368421052631579,2026-05-22T10:57:21,False
+Bud Light Extra Lime Chelada - 25 Fl. Oz.,Hard Seltzers,Hard Beverage,llm,0.6,0.3636363636363636,2026-05-22T10:56:51,False
+Ghost Rotational Flavor 16fz - 16 FZ,Flavored Hard Beverages,Hard Beverage,llm,0.4,0.3389830508474575,2026-05-22T11:11:57,False
+Goose Island 312 Urban Wheat-1/2 Keg,Light Lager,Beer,llm,0.8,0.2857142857142857,2026-05-22T11:12:55,False
+"Rolling Rock, 12 oz, 30 pk",Light Lager,Beer,llm,0.8,0.3846153846153846,2026-05-22T10:56:43,False
+Coors Light-12pk-10oz Cans,Classic Lager,Beer,llm,0.9,0.4,2026-05-22T10:58:03,False
+On The Rocks Sparkling Peach Cosmopolitan Canned Cocktail-4pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.8,0.25,2026-05-22T10:56:43,False
+Cisco Wandering Haze-12pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3137254901960784,2026-05-22T10:57:41,False
+Devils Backbone Peach Smash-4pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3103448275862068,2026-05-22T10:56:43,False
+Cisco Cold Wave-12pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3043478260869565,2026-05-22T10:57:29,False
+Beck's-4pk-16oz Cans,Craft Beer,Beer,llm,0.8,0.4166666666666666,2026-05-22T10:56:47,False
+Corona und andere Lebensfragen,Flavored Hard Beverages,Hard Beverage,llm,0.4,0.4150943396226415,2026-05-22T11:10:16,False
+Coors Light-9pk-16oz AlmBtls,Craft Beer,Beer,llm,0.8,0.32,2026-05-22T11:09:17,False
+Equilibrium Ghost in the Laboratory-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3333333333333332,2026-05-22T11:10:38,False
+Bud Light 6 Pack Bottle (12 oz),Craft Beer,Beer,llm,0.9,0.25,2026-05-22T10:56:48,False
+Ghost Hawk Dortsfeld-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3921568627450981,2026-05-22T11:11:47,False
+Elysian Hazy 96-1/6 Keg,Ready to Drink,Hard Beverage,llm,0.6,0.3125,2026-05-22T11:10:33,False
+Budweiser Supreme In Cans - 12-12 FZ,Craft Beer,Beer,llm,0.8,0.3478260869565217,2026-05-22T10:57:24,False
+Corona Familiar-12pk-12oz Btls,Classic Lager,Beer,llm,0.8,0.3888888888888888,2026-05-22T11:09:51,False
+Golden Road Mango Cart Series 12 pack 12 oz cans,Classic Lager,Beer,llm,0.6,0.425531914893617,2026-05-22T10:56:43,False
+Elysian Brewing Company Pumpkin Pack 12 x 12 fl oz,Variety Packs,Beer,llm,0.8,0.2448979591836735,2026-05-22T11:10:30,False
+Corona del Valle Cabernet Sauvignon-750ml,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4067796610169491,2026-05-22T11:10:10,False
+Coors Light-6pk-7oz Btls,Craft Beer,Beer,llm,0.8,0.3636363636363636,2026-05-22T10:59:02,False
+Bud Light Lemonade Cans - 12-12 Fl. Oz.,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.3333333333333332,2026-05-22T10:56:56,False
+Four Peaks Tea Shot-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,llm,0.6,0.4,2026-05-22T11:11:26,False
+Angry Orchard Crisp Light Apple Hard Cider Beer 12 fl oz,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Corona Mexican Lager Beers (24 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Four Peaks Peach Ale-6pk-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.2777777777777777,2026-05-22T13:39:53,False
+Budweiser Select American Light Beer-18-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Budweiser American Lager Beer in Bottles - 18 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Coors Light Beer American Style Light Lager 4.2% ABV Cans - 4-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser American Lager Beer 30 pack 12 fl oz Aluminum Cans 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Mexican Lager Beer (6 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Coors Light-18-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser American Lager Beer 24 pack 12 fl oz Aluminum Cans 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Goose Island 312 Lemonade Shandy-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Corona Extra Mexican Lager Import Beer (6 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Bud Light American Lager Beer in Cans - 8 - 16 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Four Peaks The Joy Bus Wow Wheat Bottles - 6-12 Fl. Oz.,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Budweiser Lager Beer (3 x 25 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Coors Light-24-16oz AlmBtls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Bud Light American Lager Beer in Cans - 12 - 16 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light Beer American Style Light Lager 4.2% ABV Bottle - 40 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser Beer In Cans - 8-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.2285714285714286,2026-05-22T13:39:48,False
+Budweiser King of Beers American Lager Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+"Budweiser Beer, 24 Pack 16 fl. oz. Aluminum Cans, 5.0% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Coors Light-6pk-16oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Cisco Forever New England-4pk-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.4347826086956521,2026-05-22T13:39:49,False
+Budweiser American Lager Beer-24-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona Extra Mexican Lager Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Corona Imported Mexican Lager Beer (12 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Corona Extra Mexican Lager Import Beer (6 x 7 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Corona Sunbrew Citrus Cerveza Mexican Import Lager Longneck Bottles,Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.2191780821917808,2026-05-22T13:39:52,False
+Four Peaks Bad Birdie-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3846153846153846,2026-05-22T13:39:53,False
+Four Peaks Hop Knot IPA-6pk-12oz Cans,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Bud Ice Sub Premium American Lager Can,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Budweiser 5% ABV Beer In Cans - 15-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.2325581395348837,2026-05-22T13:39:47,False
+Cisco Wandering Haze-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3137254901960784,2026-05-22T13:39:49,False
+Coors Light-30-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+"Angry Orchard Crisp Apple Hard Cider, 12 pack, 12 fl oz Glass Bottles, 5% ABV",Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Bud Light American Lager Beer-6pk-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light Beer American Style Light Lager 4.2% ABV Bottles - 24-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Light Mexican Lager Import Lower Calorie Beer,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Budweiser American Lager Beer 3 pk Cans 25 oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Coors Light American Lager Bottles,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Budweiser American Lager Beer-20-16ozAlmBtl,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+"Budweiser Select Light Beer, 30 Pack 12 fl. oz. Aluminum Cans, 4.3% ABV, Domestic Lager",Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+"Budweiser Select Light Beer, 18 Pack 12 fl. oz. Glass Bottles, 4.3% ABV, Domestic Lager",Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Four Peaks Bad Birdie In Cans - 6-12 FZ,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3225806451612903,2026-05-22T13:39:53,False
+Corona Extra Import Mexican Lager Longneck Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Bud Light American Lager Beer in Bottles - 6 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+"Corona Extra Mexican Lager Beer, 6 pk 12 fl oz Bottles, 4.6% ABV",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Four Peaks Hop Knot IPA-1/6 Keg,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Bud Light American Light Lager Beer 12 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Corona Premier-1/4 Keg,Cider,Hard Beverage,batch_cache,1.0,0.3636363636363636,2026-05-22T13:39:52,False
+Cisco Gripah Grapefruit IPA-4pk-16oz Cans,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Bud Light American Lager Beer in Bottles - 20 - 16 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light-24oz Can,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Bud Light American Lager Beer in Cans - 15 - 16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Cisco Whales Tale Pale Ale-1/6 Keg,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Four Peaks Kilt Lifter-6pk-12oz Cans,Hard Seltzers,Hard Beverage,batch_cache,1.0,0.3720930232558139,2026-05-22T13:39:53,False
+Coors Light American Style Light Lager Beer 4.2% ABV Cans - 24-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser American Lager Beer 18 pack 12 fl oz Aluminum Cans 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Sunbrew Citrus Cerveza Mexican Import Beer,Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.24,2026-05-22T13:39:52,False
+"Dos Equis Mexican Lager Beer, 12 Pack, 12 fl oz Bottles 12 fl oz",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Busch American Lager Beer-30-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Familiar-24-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.3783783783783784,2026-05-22T13:39:51,False
+Budweiser American Lager Beer-1/4 Keg,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Angry Orchard Crisp Apple Hard Cider Beer 12 fl oz,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Budweiser American Lager Beer 3 pack 25 fl oz Aluminum Cans 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Bud Light Orange Beer Bottles - 6-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Coors Light American Lager Beer (24 fl oz),Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+"Bud Ice Premium Lager Beer, 6 pack 16 oz",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Corona Familiar Mexican Lager Beer (24 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Dos Equis Ambar Mexican Lager Beer Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Coors Light American Style Light Lager Beer 4.2% ABV Bottles - 20-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Bud Light American Lager Beer in Bottle - 20 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+"Corona Premier Mexican Lager Beer, 6 pk 12 fl oz Bottles, 4.0% ABV",Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.2622950819672131,2026-05-22T13:39:52,False
+"Goose Island Bourbon County Brand Stout, 2021-16.9oz Btl",Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:55,False
+Beck's-6pk-12oz Btls,Variety Packs,Beer,batch_cache,1.0,0.3703703703703704,2026-05-22T13:39:46,False
+Bud Light American Lager Beer in Bottles - 24 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light-8pk-16oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Premier Mexican Lager Import Lower Calorie* Light Beer 12 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+"Budweiser American Lager Beer 15 Pack, 16 fl oz Aluminum Bottles",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Extra Mexican Lager Import Beer,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Corona Extra The Original Import Mexican Lager Longneck Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Bud Light American Lager Beer in Cans 24 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Corona Extra-24-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.411764705882353,2026-05-22T13:39:51,False
+Budweiser American Lager Beer in Cans - 30 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Extra-18-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.411764705882353,2026-05-22T13:39:51,False
+Stella Artois Cidre Hard Cider-6pk-12oz Btls,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Coors Light Beer American Style Light Lager 4.2% ABV Bottles - 6-7 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Light Mexican Lager Import Lower Calorie Beer 12 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Bud Light American Lager Beer in Bottles - 12 - 16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light Beer American Style Light Lager 4.2% ABV Cans - 20-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser American Lager Beer-24-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Coors Light-6pk-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Sunbrew-6pk-12oz Btls,Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.2857142857142857,2026-05-22T13:39:52,False
+Coors Light-6pk-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Coors Light-24-16oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+"Busch American Lager Beer 30 Pack, 12 Fl Oz Cans 12 fl oz",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Extra Mexican Lager Import Beer Can 24 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Budweiser Select American Light Beer-18-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Budweiser American Lager Beer 25 fl oz 1 Aluminum Can 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Sunbrew Citrus Cerveza Beer (6 x 12 fl oz),Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.1739130434782609,2026-05-22T13:39:52,False
+Corona Premier Mexican Lager Import Lower Calorie Light Beer,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Coors Light Beer American Style Light Lager 4.2% ABV Cans - 36-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Golden Road Street Cart-6pk-12oz Cans,Ready to Drink,Hard Beverage,batch_cache,1.0,0.3555555555555555,2026-05-22T13:39:54,False
+Budweiser American Lager Beer 16 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Coors Light American Lager Beer Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Carlsberg-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.35,2026-05-22T13:39:49,False
+"Dos Equis Mexican Lager Beer, 6 Pack, 12 fl oz Bottles 12 oz",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Coors Light Beer American Style Light Lager 4.2% ABV Cans - 6-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Extra Mexican Lager Beer (3 x 24 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Golden Road Mango Cart-6pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3773584905660377,2026-05-22T13:39:54,False
+Budweiser Beer In Bottles - 20-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.2564102564102563,2026-05-22T13:39:48,False
+Busch Ice American Lager Beer-12pk-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Extra Mexican Lager Longneck Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Corona Sunbrew Citrus Cerveza Mexican Import Beer Bottles 12 fl oz,Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.2413793103448276,2026-05-22T13:39:52,False
+Corona Extra Imported Mexican Lager Longneck Bottles,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Golden Road Ride On 10 Hop Hazy IPA-6pk-12oz Cans,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Devils Backbone O'Fest Lager-1/6 Keg,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Angry Orchard Crisp Apple Hard Cider Beer,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Coors Light American-style Light Lager Beer 16 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Bud Light American Lager Beer in Cans - 12 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Beck's Pure Malt Beer (12 x 12 fl oz),Variety Packs,Beer,batch_cache,1.0,0.4242424242424242,2026-05-22T13:39:46,False
+Franziskaner Hefeweizen Bottles - 6-12 Fl. Oz.,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Budweiser American Lager Beer-30-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-24-10oz Can,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer in Cans - 12 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Bud Light American Lager Beer-20-16ozAlmBtl,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Angry Orchard Crisp Light Apple Hard Cider Beer,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Busch American Lager Beer-18-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Coors Light American-style Light Lager Beer 6 Pack,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+"Budweiser Select Light Beer, 6 Pack 12 fl. oz. Glass Bottles, 4.3% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Coors Light Beer American Style Light Lager 4.2% ABV Cans - 12-8 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Coors Light American-style Light Lager Beer,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser American Lager Beer-36-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+"Bud Ice Premium Lager Beer, 30 pack 12 oz",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Budweiser American Lager Beer-12pk-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer (3 x 25 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+"Corona Extra Mexican Lager Beer, 18 pk 12 fl oz Bottles, 4.6% ABV",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Bud Light Lime American Lager Beer in Cans - 18 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Budweiser American Lager Beer-Pack,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Angry Orchard Crisp Apple Hard Cider-6pk-12oz Cans,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Corona Extra-24-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.3529411764705882,2026-05-22T13:39:51,False
+Coors Light Beer American Style Light Lager 4.2% ABV Cans - 3-24 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Bud Light NEXT Lager American Beer 12 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Golden Road Belgian White-6pk-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.3636363636363636,2026-05-22T13:39:54,False
+Budweiser American Lager Can,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+"Budweiser Beer, 15 Pack 16 fl. oz. Aluminum Cans, 5.0% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Four Peaks Pumpkin Porter-6pk-12oz Btls,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Bud Light American Lager Beer in Cans - 18 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Golden Road Mango Cart-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3773584905660377,2026-05-22T13:39:54,False
+Corona Extra Mexican Lager Import Beer 12 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Budweiser Select American Light Beer-6pk-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Budweiser Beer Cans - 24 x 12 fl oz,Light Lager,Beer,batch_cache,1.0,0.2222222222222223,2026-05-22T13:39:48,False
+Bud Light American Lager Beer-8pk-16oz AlmBtls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light-1/4 Keg,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser King of Beers American Lager Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona Premier-18-12oz Btls,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3043478260869565,2026-05-22T13:39:52,False
+"Topo Chico Sabores Lime with Mint Extract 12oz, 8pk",Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.2142857142857143,2026-05-22T13:39:45,False
+Budweiser American Lager Beer-8pk-16oz AlmBtls,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona,Craft Beer,Beer,batch_cache,1.0,0.5454545454545454,2026-05-22T13:39:51,False
+Corona Premier-24-12oz Cans,Hard Seltzers,Hard Beverage,batch_cache,1.0,0.3333333333333332,2026-05-22T13:39:52,False
+Corona Extra Mexican Lager Beer (24 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Four Peaks Kilt Lifter-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.339622641509434,2026-05-22T13:39:53,False
+Budweiser American Lager Beer-6pk-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Coors Light American Style Light Lager Beer 4.2% ABV Cans - 30-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Elysian Dank Dust India Pale Ale Beer Bottle - 6-12 Fl. Oz.,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Budweiser American Lager Beer in Cans - 6 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Coors Light-24-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser American Lager Beer 12 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Budweiser American Lager Beer-15pk-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona Premier Mexican Lager Light Beer Cans 12 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Budweiser American Lager Beer in Cans - 24 - 16 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Devils Backbone Vienna Lager-1/6 Keg,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Corona Premier Mexican Lager Import Lower Calorie Light Beer 12 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Bud Light Lager Can (25 oz x 3 ct),Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Bud Light American Light Lager Beer,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+"Dos Equis Mexican Lager Beer, 6 Pack, 12 fl oz Bottles",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Coors Light-15pk-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+"Corona Light Mexican Lager Import Lower Calorie Light Beer, 12 pk 12 oz",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+"Dos Equis Mexican Lager Beer, 24 Pack, 12 fl oz Bottles",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+"Budweiser Beer, 18 Pack 16 fl. oz. Aluminum Cans, 5.0% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-12pk-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer 6 pack 16 fl oz Aluminum Cans 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Bud Light Lime American Lager Beer in Bottle - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Bud Light American Lager Beer-25oz Can,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Coors Light American Lager Beer (12 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Light Mexican Lager Light Beer Bottles,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Corona Extra Coronita-6pk-7oz Btls,Variety Packs,Beer,batch_cache,1.0,0.3333333333333332,2026-05-22T13:39:51,False
+Budweiser Lager Beer (24 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Angry Orchard Hard Cider Summer Party Pack Variety Beer 12 fl oz,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Corona Extra Coronita Mexican Lager Import Beer 7 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+"Dos Equis Mexican Import Lager Beer, 6 pack, 12 fl oz Bottles, 4.2% ABV",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Corona Premier Mexican Lager Light Beer Bottles 12.00 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Budweiser American Lager Beer 36 pack 12 fl oz Aluminum Cans 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Budweiser American-Style Lager Beer (18 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Bud Light Beer Bottles - 8-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Goose Island 312 Urban Wheat-1/6 Keg,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Coors Light Lager Beer (6 x 16 fl oz),Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Coors Light-24-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Budweiser Select American Light Beer-24-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Bud Light Lime American Lager Beer in Bottles - 30 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Extra-18-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.3529411764705882,2026-05-22T13:39:51,False
+"Budweiser Select Light Beer, 20 Pack 16 fl. oz. Glass Bottles, 4.3% ABV, Domestic Lager",Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Budweiser Lager Beer In Cans - 24-10 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser Limited Edition American Lager Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Golden Road Mango Cart-15pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3773584905660377,2026-05-22T13:39:54,False
+"Budweiser Beer, 20 Pack Beer, 12 fl oz Aluminum Cans, 5.0 % ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer in Bottles - 20 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Busch American Lager Beer-24-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Budweiser American Lager Beer-20-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-18-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona Mexican Lager Beer (12 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Budweiser Lager Beer (6 x 16 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-18-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-1/6 Keg,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona Extra-6pk-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.3636363636363636,2026-05-22T13:39:51,False
+Corona Premier Mexican Lager Light Beer (12 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Four Peaks Kilt Lifter-1/6 Keg,Hard Seltzers,Hard Beverage,batch_cache,1.0,0.368421052631579,2026-05-22T13:39:53,False
+Coors Light-18-16oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Angry Orchard Crisp Imperial Hard Cider Beer 12 fl oz,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+"Budweiser Select Light Beer, 18 Pack 12 fl. oz. Aluminum Cans, 4.3% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Light Mexican Lager Light Beer Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+"Budweiser Beer, 24 Pack 10 fl. oz. Aluminum Cans, 5.0% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-6pk-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Coors Light-20-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Angry Orchard Crisp Apple Hard Cider-12pk-12oz Cans,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Budweiser Select American Light Beer-30-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Goose Island 312 Urban Wheat-6pk-12oz Btls,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Bud Light American Lager Beer in Cans - 24 - 16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+"Budweiser Beer, 20 Pack Beer, 16 fl oz Glass Bottles, 5% ABV, Domestic Lager",Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.1509433962264151,2026-05-22T13:39:48,False
+Bud Light American Lager Beer in Bottles - 12 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Bud Light Lager Cans (12 oz x 18 ct),Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Duke Cannon Beer Soap Busch Sandalwood - 10OZ,Variety Packs,Beer,batch_cache,1.0,0.2083333333333333,2026-05-22T13:39:53,False
+152 Budweiser Bottle,Light Lager,Beer,batch_cache,1.0,0.2580645161290323,2026-05-22T13:39:45,False
+Budweiser American Lager Beer-20-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Corona Premier-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3111111111111111,2026-05-22T13:39:52,False
+"Budweiser Beer, 4 Pack 16 fl. oz. Aluminum Cans, 5% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+"Corona Extra Mexican Lager Beer, 12 pk 12 fl oz Cans, 4.6% ABV",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Budweiser American Lager Beer-8pk-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer-18-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer in Cans - 24 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Budweiser American Lager Beer in Bottles - 12 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Budweiser American Lager Beer 24 pack 12 fl oz Glass Bottles 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Extra Mexican Lager Beer (24 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Budweiser American Lager Beer,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Bud Light Beer In Cans - 20-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Angry Orchard Crisp Apple Hard Cider-6pk-12oz Btls,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Budweiser Lager Beer (30 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Bud Light Platinum American Lager Beer in Bottles - 6 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+"Budweiser Select Light Beer, 20 Pack 12 fl. oz. Glass Bottles, 4.3% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Devils Backbone Orange Smash 7.5-8pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3492063492063492,2026-05-22T13:39:45,False
+Budweiser American Lager Beer-24-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Style Lager Beer (12 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Four Peaks Hop Knot IPA-6pk-12oz Btls,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Coors Light-12pk-8oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Cisco Whales Tale Pale Ale-4pk-16oz Cans,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Citrus Sunbrew Cerveza Mexican Lager Longneck Bottles,Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.2191780821917808,2026-05-22T13:39:51,False
+Corona Premier-18-12oz Cans,Hard Seltzers,Hard Beverage,batch_cache,1.0,0.3333333333333332,2026-05-22T13:39:52,False
+Coors Light American Style Light Lager Beer 4.2% ABV Cans - 12-16 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+"Budweiser Select Light Beer, 24 Pack 12 fl. oz. Aluminum Cans, 4.3% ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Corona Familiar-6pk-12oz Btls,Classic Lager,Beer,batch_cache,1.0,0.3888888888888888,2026-05-22T13:39:51,False
+Budweiser Select American Light Beer-20-12oz Btls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+"Goose Island Bourbon County Brand Stout, 2020-16.9oz Btl",Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:55,False
+Beck's Pilsner Beer Bottles - 12-12 Fl. Oz.,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Budweiser American Lager Beer in Bottles - 6 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Budweiser American Lager Beer in Bottles - 24 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Bud Light American Lager Beer in Cans - 30 - 12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Angry Orchard Crisp Apple Hard Cider-1/6 Keg,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+"Budweiser Beer, 6 Pack Beer, 12 fl oz Aluminum Cans, 5 % ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+"Dos Equis Mexican Lager Beer, 4x6 Pack, 7 fl oz Bottles",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:53,False
+Coors Light American Lager Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Bud Light American Lager Beer in Cans - 3 - 25 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Four Peaks Sunbru-6pk-12oz Cans,Variety Packs,Beer,batch_cache,1.0,0.3157894736842105,2026-05-22T13:39:53,False
+Coors Light-12pk-12oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Extra Mexican Lager Beers (18 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Elysian Bifrost Winter Ale-1/6 Keg,Classic Lager,Beer,batch_cache,1.0,0.3076923076923077,2026-05-22T13:39:53,False
+152 Budweiser Chelada Bottle,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.3529411764705882,2026-05-22T13:39:45,False
+Corona Sunbrew Citrus Cerveza Mexican Import Beer 12 fl oz,Non-alcoholic Beer,Non-alcoholic Beer,batch_cache,1.0,0.24,2026-05-22T13:39:52,False
+Angry Orchard Hard Cider Crisp Apple Bottles - 6-12 Fl. Oz.,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Corona Extra Mexican Lager Beer (12 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Golden Road Mango Cart-1/6 Keg,Flavored Hard Beverages,Hard Beverage,batch_cache,1.0,0.375,2026-05-22T13:39:54,False
+Golden Road Mango Cart Wheat Ale-6pk-12oz Btls,Craft Beer,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:54,False
+Four Peaks Peach Ale-6pk-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.3333333333333332,2026-05-22T13:39:53,False
+Budweiser American Lager Beer 6 pack 12 fl oz Glass Bottles 5% ABV,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Coors Light American-style Light Lager Beer 12 fl oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+"Budweiser Beer, 8 Pack Beer, 16 fl oz Aluminum Cans, 5.0 % ABV, Domestic Lager",Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:48,False
+Budweiser American Lager Beer (6 x 12 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Coors Light-12pk-16oz Cans,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Extra Import Mexican Lager Can,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Corona Light Mexican Lager Import Lower Calorie Beer 12 oz,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:52,False
+Coors Light Beer American Style Light Lager 4.2% ABV Bottles - 24-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:50,False
+Corona Extra Mini Lager Beer (24 x 7 fl oz),Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+Bud Light American Lager Beer-24-16oz Cans,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Budweiser American Lager Beer in Cans - 12 - 16 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Corona Extra Mexican Lager Import Beer 24 fl oz,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:51,False
+"Angry Orchard Hard Cider, Crisp Apple (6 x 12 fl oz)",Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Bud Light American Lager Beer-24-16oz AlmBtls,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:46,False
+Corona Extra-6pk-12oz Cans,Classic Lager,Beer,batch_cache,1.0,0.4242424242424242,2026-05-22T13:39:51,False
+Budweiser Select Light Beer 4.3% ABV In Cans - 24-12 Fl. Oz.,Light Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:49,False
+Angry Orchard Hard Cider Crisp Apple Cans - 12-12 Fl. Oz.,Cider,Hard Beverage,batch_cache,1.0,0.92,2026-05-22T13:39:45,False
+Budweiser American Lager Beer in Cans - 18 - 12 Fl. Oz.,Classic Lager,Beer,batch_cache,1.0,0.92,2026-05-22T13:39:47,False
+Four Peaks Variety Pack In Bottles - 12-12 Oz,Variety Packs,Beer,vector,0.8633277802957547,0.7,2026-05-22T11:11:35,False
+Cisco Summer Variety Pack-12pk-12oz Cans,Variety Packs,Beer,vector,0.8264184872632488,0.7,2026-05-22T10:57:38,False
+Devils Backbone Block Party Variety Pack 10% 8pk 12oz Cans,Variety Packs,Beer,vector,0.8183948600561588,0.7,2026-05-11T13:56:56,False
+On The Rocks Tropical Cocktail Collection Variety Pack-8pk-12oz Cans,Variety Packs,Beer,vector,0.8209851361838787,0.7,2026-05-22T10:56:43,False
+Corona Premier-12pk-12oz Cans,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.3428571428571429,2026-05-22T11:09:59,False
+Angry Orchard Spring/Summer Mixed Pack-12pk-12oz Btls,Classic Lager,Beer,ml,0.7994298934936523,0.3050847457627118,2026-05-22T10:56:41,False
+Carlsberg-12pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.35,2026-05-22T10:57:26,False
+Corona Premier-4pk-16oz Cans,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.3428571428571429,2026-05-22T11:09:59,False
+Corona Premier-12pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.3111111111111111,2026-05-22T11:09:59,False
+De rarissimo praecocis ingenii exemplo Christ. Henr. Heineken Lubecens commentatio: qua viro ... Christ. Henr. Behm ... natalem sexagesimum tertium gratulatur fili [Leather Bound],Classic Lager,Beer,ml,0.934548795223236,0.1264367816091953,2026-05-22T11:10:21,False
+BeatBox Blue Razzberry Punch 500 mL,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.3921568627450981,2026-05-22T10:56:41,False
+Carlsberg Elephant-6pk-11oz Btls,Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.3673469387755102,2026-05-22T10:57:26,False
+Golden Road Oktoberfest Bier-6pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.4406779661016949,2026-05-22T11:12:28,False
+Four Peaks Kilt Lifter-1/2 Keg,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.368421052631579,2026-05-22T11:11:05,False
+Budweiser 25oz Can,Cider,Hard Beverage,ml,0.8494874835014343,0.3333333333333332,2026-05-22T10:57:03,False
+Corona Premier-24oz Can,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.375,2026-05-22T11:09:59,False
+Four Peaks Kilt Lifter Can - 25 Oz,Classic Lager,Beer,ml,0.9109880924224854,0.3414634146341463,2026-05-22T11:11:05,False
+Four Peaks Kilt Lifter-25oz,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.3888888888888888,2026-05-22T11:11:10,False
+Four Peaks Wow Berry-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.3921568627450981,2026-05-22T11:11:35,False
+BeatBox® Blue Razzberry 500 ml,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.391304347826087,2026-05-22T10:56:41,False
+Angry Orchard Forbidden Fruit Apple Ginger Mule-4pk-12oz Cans,Light Lager,Beer,ml,0.934548795223236,0.2424242424242425,2026-05-22T10:56:40,False
+Corona Premier-1/2 Keg,Cider,Hard Beverage,ml,0.851915180683136,0.3636363636363636,2026-05-22T11:09:59,False
+Carlsberg-1/2 Keg,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.4,2026-05-22T10:57:26,False
+Goose Island Boss Berry-12pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.4074074074074074,2026-05-22T11:12:59,False
+Topo Chico Sabores Tangerine with Ginger Extract Flavored Sparkling Water Cans,Classic Lager,Beer,ml,0.934548795223236,0.2417582417582417,2026-05-22T10:56:45,False
+Carlsberg Elephant-4pk-16oz Cans,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.3673469387755102,2026-05-22T10:57:26,False
+Budweiser-24-16oz AlmBtls,Hard Seltzers,Hard Beverage,ml,0.8494874835014343,0.2941176470588235,2026-05-22T10:57:26,False
+Budweiser Keg-1/2 Keg,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.3076923076923077,2026-05-22T10:57:14,False
+Cutwater Cocktails Gluten Free Vodka Transfusion Cans,Variety Packs,Beer,ml,0.9109880924224854,0.2727272727272726,2026-05-22T10:56:41,False
+Angry Orchard Fall/Winter Mixed Pack-12pk-12oz Btls,Craft Beer,Beer,ml,0.7994298934936523,0.2592592592592592,2026-05-22T10:56:40,False
+Carlsberg Elephant Strong (4 x 16 fl oz),Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.3846153846153846,2026-05-22T10:57:26,False
+Bud Light Lime Straw-ber-rita In Cans - 4-16 FZ,Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.3125,2026-05-22T10:57:01,False
+"Des Lübekischen Dreyjährigen Knabens Christian Henrich Heineken Vorschmak Der Alten, mitlern und neuen Dänischen Geschichte: Aus Denen bewehrtesten Geschichtschrei [Leather Bound]",Light Lager,Beer,ml,0.9109880924224854,0.1052631578947368,2026-05-22T11:10:21,False
+Carlsberg-6pk-11oz Btls,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.35,2026-05-22T10:57:26,False
+Cisco Forever New England-12pk-12oz Cans,Classic Lager,Beer,ml,0.9109880924224854,0.4761904761904762,2026-05-22T10:57:31,False
+Four Peaks Wow Berry-15pk-12oz Cans,Flavored Hard Beverages,Hard Beverage,ml,0.851915180683136,0.4313725490196078,2026-05-22T11:11:35,False
+Four Peaks Oktoberfest-6pk-12oz Btls,Flavored Hard Beverages,Hard Beverage,ml,0.8494874835014343,0.339622641509434,2026-05-22T11:11:14,False
+Michelob Ultra Organic Hard Seltzer First Edition Variety Pack,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-11T13:48:41,False
+Budweiser Genuine Lager Beer In Cans - 3-25 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:11,False
+Elysian Bifrost Winter Ale-1/2 Keg,Light Lager,Beer,keyword,0.9,0.35,2026-05-22T11:10:28,False
+Four Peaks Bus Load of Hops IPA Variety Pack-12pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.7,2026-05-22T11:11:00,False
+"Goose Island Bourbon County Brand Sir Isaac's Stout, 2022-16.9oz Btl",Classic Lager,Beer,keyword,0.9,0.2051282051282051,2026-05-22T11:12:59,False
+Wicked Weed Pernicious IPA-24-12oz Cans,Variety Packs,Beer,keyword,0.9,0.2916666666666667,2026-05-22T10:56:46,False
+Four Peaks Hop Knot IPA-1/2 Keg,Variety Packs,Beer,keyword,0.9,0.2564102564102563,2026-05-22T11:11:05,False
+Budweiser Lager Beer 6 Pack,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Bud Light NEXT Beer Light Beer Bottles - 6-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+Bud Light Lager Can (12 oz x 12 ct),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:53,False
+Goose Island Beer Co. Tropical Hug Imperial IPA Can,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+"Goose Island Bourbon County Brand Blanton's Stout, 2021-16.9oz Btl",Light Lager,Beer,keyword,0.9,0.1891891891891892,2026-05-22T11:12:59,False
+Budweiser Lager Beer 30 pk / 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Goose Island Big Mango Beer Hug-19oz cans,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+Four Peaks Kuhl Beans Vanilla Coffee Porter-6pk-12oz Btls,Classic Lager,Beer,keyword,0.9,0.28125,2026-05-22T11:11:12,False
+Goose Island Bourbon County Bananas Foster Stout 2023-16.9oz Btl,Craft Beer,Beer,keyword,0.9,0.1971830985915492,2026-05-22T11:12:59,False
+Budweiser Beer Lager (36 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Golden Road LA Dodgers Blonde Ale Cans - 15-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.2711864406779661,2026-05-22T11:12:19,False
+Budweiser American Lager Beer (12 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Truly Getaway Hard Seltzer Variety pack Assorted (12 x 12 oz),Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-11T13:56:56,False
+Golden Road Dodgers Blonde Ale-12pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3137254901960784,2026-05-22T11:12:07,False
+Devils Backbone Vienna Lager-1/2 Keg,Variety Packs,Beer,keyword,0.9,0.409090909090909,2026-05-22T11:10:23,False
+"Beck's Non Alcoholic Beer, 12 oz, 6 pk",Classic Lager,Beer,keyword,0.9,0.3414634146341463,2026-05-22T10:56:47,False
+Michelob Ultra Organic Hard Seltzer First Edition Variety Pack - 12pk/12 fl oz Sliim Cans,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-11T13:34:35,False
+Budweiser American-Style Beer (25 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Cisco Gripah Grapefruit IPA-12pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.375,2026-05-22T10:57:38,False
+Dos Equis Cerveza Especial Lager Beer (12 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:28,False
+Budweiser American Lager Beer Can 25 oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Budweiser Select Light Beer,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:19,False
+Coors Light American-style Light Lager Beer 30 cans / 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+White Claw Blackberry Hard Seltzer,Hard Seltzers,Hard Beverage,keyword,0.9,0.5106382978723404,2026-05-22T10:56:45,False
+Budweiser Select American Light Beer-12pk-12oz Btls,Classic Lager,Beer,keyword,0.9,0.3181818181818181,2026-05-22T10:57:19,False
+Budweiser Nitro Reserve Gold Lager Cans - 6-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Golden Road Mango Cart Wheat Ale-12pk-12oz Btls,Light Lager,Beer,keyword,0.9,0.3137254901960784,2026-05-22T11:12:19,False
+Cisco Summer Rays Golden Ale-12pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.4081632653061224,2026-05-22T10:57:38,False
+Golden Road Brewing Mango Cart Wheat Ale,Light Lager,Beer,keyword,0.9,0.3137254901960784,2026-05-22T11:12:02,False
+Ghost Town Rotating Lager-4pk-16oz Cans,Classic Lager,Beer,keyword,0.9,0.4347826086956521,2026-05-22T11:11:57,False
+Golden Road Ride On Tropical IPA-19oz cans,Variety Packs,Beer,keyword,0.9,0.3137254901960784,2026-05-22T11:12:33,False
+Elysian Full Contact Imperial Hazy IPA Cans - 6-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.3174603174603174,2026-05-22T11:10:31,False
+Four Peaks Oktoberfest Vienna Lager Bottles - 6-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:11:14,False
+Bud Light Platinum Beer Can - 25 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+Strongbow Gold Hard Cider-6pk-12oz Btls,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:43,False
+Four Peaks Golden Lager Cans - 15-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:11:05,False
+"Coors Light Lager Beer, 3 Pack, 24 fl oz Cans",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:54,False
+Budweiser Select American Light Beer-20-16ozAlmBtl,Classic Lager,Beer,keyword,0.9,0.28,2026-05-22T10:57:19,False
+Bud Light American Lager Beer-18-16oz Cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Four Peaks Red Bird Lager-15pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.391304347826087,2026-05-22T11:11:19,False
+Four Peaks Tropical Desert Daydream IPA-19oz Can,Craft Beer,Beer,keyword,0.9,0.2592592592592592,2026-05-22T11:11:35,False
+Ghost Train El Rey Mexican Lager-6pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3773584905660377,2026-05-22T11:12:00,False
+"Bud Light Premium Lager Beer, Lime (6 x 12 fl oz)",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Corona La Cerveza Mas Fina Mexican Lager Import Beer (24 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:56,False
+Angry Orchard Hard Cider Crisp Imperial 6pk In Cans - 6-12 FZ,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Bud Ice Beer Bottle - 18 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:47,False
+"Budweiser Select Light Beer, 12 Pack 12 fl. oz. Aluminum Cans, 4.3% ABV, Domestic Lager",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:19,False
+Golden Road Brewing Mango Cart Wheat Ale In Tall Can - 25 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.2686567164179104,2026-05-22T11:12:02,False
+Ghostfish Lunar Harvest Pumpkin Ale-4pk-16oz Cans,Classic Lager,Beer,keyword,0.9,0.3214285714285714,2026-05-22T11:12:00,False
+"Estrella Jalisco Mix Chelada Pack Mexican Import Beer, 15 Pack Beer, 12 fl oz Cans, 3.5% ABV",Classic Lager,Beer,keyword,0.9,0.24,2026-05-22T11:10:40,False
+Budweiser Chelada Picante Beer Can - 25 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:06,False
+Coors Light American Style Lager Beer (9 x 16 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Golden Road Hazy Pup IPA Cans - 6-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.2857142857142857,2026-05-22T11:12:14,False
+"Budweiser Beer, 12 Pack 8 fl. oz. Cans, 5.0% ABV, Domestic",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2745098039215686,2026-05-22T10:57:04,False
+Angry Orchard Crisp Apple Hard Cider-24oz Can,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:39,False
+Golden Road Ride On 5 Hop Citrus IPA-6pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3157894736842105,2026-05-22T11:12:33,False
+Coors Light Cold Beer (15 x 16 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:49,False
+Budweiser Chelada with Clamato Lager Beer - Original 25 oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:09,False
+Bud Ice Light Lager Cans,Classic Lager,Beer,keyword,0.9,0.7096774193548387,2026-05-22T10:56:48,False
+Elysian Space Dust IPA-6L,Classic Lager,Beer,keyword,0.9,0.3333333333333332,2026-05-22T11:10:33,False
+Estrella Jalisco Spicy Pina Michelada Beer (25 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:40,False
+Four Peaks Rattle On Red Ale Cans - 15-12 Fl. Oz.,Variety Packs,Beer,keyword,0.9,0.2962962962962963,2026-05-22T11:11:19,False
+Budweiser Beer In Bottle - 32 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Coors Light American Lager Beer (36 x 12 oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+"Budweiser Lager Beer (12 fl oz, 24 ct)",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Golden Road Ride On IPA-6pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3636363636363636,2026-05-22T11:12:33,False
+Heineken Original Imported Premium Malt Lager Bottles,Light Lager,Beer,keyword,0.9,0.625,2026-05-11T13:56:56,False
+Corona Mexican Lager Beer (24 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:56,False
+Elysian Dank Dust IPA 6 Pack India Pale Ale Beer Cans - 6-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:31,False
+Coors Light Lager Beer Cans 4.2% ABV - 24-8 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:53,False
+Golden Road Passion Wolf Hazy IPA Cans - 6-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.2758620689655173,2026-05-22T11:12:28,False
+Budweiser King Of Beers Domestic Lager Beer (12 x 16 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Budweiser Chelada with Clamato Lager Beer - Picante 25 oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:09,False
+Golden Road Ride On West Coast IPA-19oz cans,Variety Packs,Beer,keyword,0.9,0.339622641509434,2026-05-22T11:12:33,False
+Elysian Space Dust IPA Beer Can - 19.2 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:33,False
+Golden Road Ride On 10 Hop Hazy IPA In Cans - 19.2 Oz,Classic Lager,Beer,keyword,0.9,0.2580645161290323,2026-05-22T11:12:33,False
+Golden Road Passion Wolf Hazy IPA-6pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.2962962962962963,2026-05-22T11:12:28,False
+Bud Light Beer 4.2% ABV In Bottle - 40 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:49,False
+White Claw The Iconic Hard Seltzer Multi pack Blackberry (6 x 12 fl oz),Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-11T13:56:56,False
+"White Claw The Iconic Hard Seltzer Multi pack, Blackberry (6 x 12 fl oz)",Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:46,False
+Four Peaks Peach Golden Ale Cans - 6-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.2692307692307692,2026-05-22T11:11:14,False
+Elysian Push Mower Pilsner (12OZ),Light Lager,Beer,keyword,0.9,0.3414634146341463,2026-05-22T11:10:33,False
+Golden Road Ride On 10 Hop Hazy IPA-19oz cans,Classic Lager,Beer,keyword,0.9,0.2962962962962963,2026-05-22T11:12:33,False
+Coors Light American-style Light Lager Beer 24 bottles / 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Corona Extra Lager Mexican Beer Bottles - 18 x 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Budweiser Genuine American Style Lager Cans (12 oz x 12 ct),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:11,False
+Corona Extra Mexican Lager Beer In Cans - 4-16 FZ,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Coors Light Born in the Rockies Beer (18 x 12 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:49,False
+Corona Extra Mexican Lager Can,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:34,False
+Four Peaks Hazy IPA-6pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.25,2026-05-22T11:11:05,False
+Budweiser American Lager Beer 12 pk Bottles 12 oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+DNU Lagunitas Willettized Coffee Stout-6pk-12oz Btls,Classic Lager,Beer,keyword,0.9,0.2711864406779661,2026-05-22T11:10:16,False
+Angry Orchard Crisp Apple Hard Cider-1/2 Keg,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:39,False
+Bud Light 6% ABV Platinum Beer In Aluminum Bottles - 8-16 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:48,False
+Corona Premier Mexican Lager Light Beer Cans - 18 x 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:58,False
+Golden Road Wolf Pup Session IPA - 15-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.2641509433962264,2026-05-22T11:12:48,False
+Devils Backbone Eight Point IPA-15pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.3461538461538461,2026-05-22T11:10:21,False
+Bud Light Lime Beer In Cans - 24-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:58,False
+Four Peaks Peach Ale-15pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.2926829268292683,2026-05-22T11:11:14,False
+Miller 64 Beer 12 pk Bottles 12 oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:43,False
+Bud Light American Lager Beer 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Corona Familiar Mexican Lager Import Beer,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:49,False
+"Goose Island Bourbon County Cherry Wood Stout, 2021-16.9oz Btl",Craft Beer,Beer,keyword,0.9,0.2028985507246376,2026-05-22T11:13:00,False
+Corona Extra Imported Beer Cans,Craft Beer,Beer,keyword,0.9,0.6153846153846154,2026-05-22T11:09:33,False
+Goose Island Big Mango Beer Hug-6pk-12oz Cans,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+Estrella Jalisco Import Mexican Beer Bottles,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:38,False
+Corona Extra Lager Mexican Beer 4.6% ABV Bottle - 12-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+"Corona Familiar Mexican Lager Beer, Fuller, 1925 (6 x 12 fl oz)",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:49,False
+Four Peaks Golden Lager-15pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.409090909090909,2026-05-22T11:11:05,False
+Budweiser Lager Beer Bottles - 15-16 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Elysian Rolling Stone Lager In Cans - 6-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:33,False
+Devils Backbone Eight Point IPA-12pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.3461538461538461,2026-05-22T11:10:21,False
+Four Peaks Golden Lager-6pk-12oz Btls,Classic Lager,Beer,keyword,0.9,0.3636363636363636,2026-05-22T11:11:05,False
+Strongbow Original Dry Hard Cider-4pk-16oz Cans,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:43,False
+Estrella Jalisco Pilsner Beer (12 x 12 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:40,False
+Coors Light Domestic Lager Beer (30 x 0.4 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:49,False
+Budweiser American Lager Beer 12 pack 12 fl oz Aluminum Cans 5% ABV,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Modelo Chelada MangoyChile Flavored Beer 24oz Can,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:43,False
+Coors Light Domestic Cold Lager Beer (24 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:49,False
+Bud Light Platinum Beer 6 Pack,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+"Budweiser Select Light Beer, 12 Pack 12 fl. oz. Glass Bottles, 4.3% ABV, Domestic Lager",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:19,False
+"Dos Equis Mexican Import Lager Beer, 12 pack, 12 fl oz Bottles, 4.2% ABV",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:28,False
+Budweiser Select American Light Beer-1/2 Keg,Craft Beer,Beer,keyword,0.9,0.3333333333333332,2026-05-22T10:57:19,False
+"Corona Light Mexican Lager Beer, 12 pk 12 fl oz Cans, 4.0% ABV",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.4067796610169491,2026-05-22T11:09:56,False
+Budweiser 5% ABV Beer In Cans - 12-8 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:03,False
+Bud Light Lime Beer 4.2% ABV In Aluminum Bottles - 8-16 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:58,False
+Goose Island Bourbon County Brand Chocolate Praline Stout 16.9 fl oz,Variety Packs,Beer,keyword,0.9,0.2432432432432432,2026-05-22T11:12:59,False
+Goose Island Bourbon County Backyard Stout 2023-16.9oz Btl,Variety Packs,Beer,keyword,0.9,0.2058823529411765,2026-05-22T11:12:59,False
+Four Peaks Tropical Desert Daydream IPA-6pk-12oz Btls,Craft Beer,Beer,keyword,0.9,0.2807017543859649,2026-05-22T11:11:35,False
+Budweiser Domestic Lager Beer (30 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:11,False
+"Golden Road Brewing Wheat Ale Beer (6 pack, 12 fl oz) (mango cart)",Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:02,False
+"Angry Orchard Hard Cider Seasonal Variety Pack, 12 Pack, 5% ABV, 12 fl oz Aluminum Cans",Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Corona Premier Light Beer (12 x 12 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:09:58,False
+"Estrella Jalisco Mexican Pale Lager Beer (12 pack, 12 fl oz)",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:40,False
+Corona Sunbrew-12pk-12oz Btls,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.25,2026-05-22T11:10:03,False
+Angry Orchard Green Apple Hard Cider-6pk-12oz Btls,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:40,False
+Four Peaks The Joy Bus Wow Wheat Ale-15pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.2456140350877193,2026-05-22T11:11:26,False
+Corona Extra Coronita Lager Mexican Beer Bottles 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:27,False
+Coors Light American Style Light Lager Beer 4.2% ABV Bottles - 12-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Golden Road Ride On IPA Variety Pack-6pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.7,2026-05-22T11:12:33,False
+Stella Artois Cidre Hard Cider-1/6 Keg,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:43,False
+"Goose Island Bourbon County Brand Stout, 2017-16.9oz Btl",Craft Beer,Beer,keyword,0.9,0.1904761904761905,2026-05-22T11:12:59,False
+Bud Ice Lager Beer (6 x 16 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Budweiser American Lager Beer 12 pack 16 fl oz Aluminum Bottles 5% ABV,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Budweiser American-Style Lager Beer (15 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Rolling Rock Premium Extra Pale Beer 12 pk Bottles 12 oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:43,False
+Budweiser American Lager Beer-12-16ozAlmBtl,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Bud Light Lime Beer In Bottles - 18-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:58,False
+Bud Light Beer Bottles Wide Mouth - 4-16 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:49,False
+Coors Light Lager Beer (12 oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:53,False
+Corona Familiar Lager Mexican Beer Bottles,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:49,False
+Budweiser American Lager Beer-24oz Can - 3 pack,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Elysian Contact Haze Hazy IPA Beer - 19.2 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:31,False
+Bud Light American Lager Beer,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Bud Light American Lager Beer in Aluminum Bottles - 15 - 16 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Cisco Pumple Drumkin Ale-12pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3555555555555555,2026-05-22T10:57:38,False
+Four Peaks Imperial Hazy IPA-6pk-12oz Btls,Light Lager,Beer,keyword,0.9,0.2553191489361703,2026-05-22T11:11:05,False
+Four Peaks The Joy Bus Wow Wheat Ale-6pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.2456140350877193,2026-05-22T11:11:26,False
+Beck's Imports Pilsner Bottles,Classic Lager,Beer,keyword,0.9,0.3720930232558139,2026-05-22T10:56:47,False
+Strongbow Cider-1/2 Keg,Craft Beer,Beer,keyword,0.9,0.2857142857142857,2026-05-22T10:56:43,False
+Angry Orchard Hard Cider Crisp Apple Bottles - 12-12 Fl. Oz.,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Bud Light Platinum American Lager Beer in Bottles - 12 - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:01,False
+Angry Orchard Hard Cider Winter Party Variety Pack-12pk-12oz Cans,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Coors Light Beer Keg - 7.75 Gallon,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:49,False
+Corona Sunbrew-12pk-12oz Cans,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.25,2026-05-22T10:56:41,False
+Bud Light Beer In Bottle - 32 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:49,False
+"Franziskaner Weissbier Premium Munich Imported Beer (6 pack, 12 fl oz)",Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:11:44,False
+Coors Light American Light Lager Beer Single Can,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Goose Island Bourbon County Stout 2025 Reserve Parker's Heritage 500ml bottle,Craft Beer,Beer,keyword,0.9,0.2191780821917808,2026-05-22T10:56:43,False
+Budweiser American Lager Beer-12-7.5oz cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Four Peaks Double Pumpkin Porter-6pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.2641509433962264,2026-05-22T11:11:05,False
+"Busch Beer, 30 Pack Beer, 12 Fl Oz Cans 12 fl oz",Craft Beer,Beer,keyword,0.9,0.5384615384615384,2026-05-22T10:57:26,False
+Bud Ice® Lager Single Can 25 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Angry Orchard Crisp Apple Hard Cider (12 x 12 fl oz),Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:39,False
+"Corona Sunbrew Mexican Lager Import Beer, 24 Fl Oz Can, 4.0% Abv - 24 FZ",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.3243243243243243,2026-05-22T11:10:03,False
+Four Peaks Hop Knot IPA-12pk-12oz Btls,Craft Beer,Beer,keyword,0.9,0.2439024390243902,2026-05-22T11:11:05,False
+Budweiser Lager Beer Aluminum Bottles 15 pk / 16 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Bud Light American Lager Beer in Cans - 6 - 16 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+"Golden Road Brewing Street Cart Cerveza, Craft Lager, 6 Pack, 12 fl oz Aluminum Cans, 4.8% ABV",Craft Beer,Beer,keyword,0.9,0.6666666666666665,2026-05-22T11:12:02,False
+Budweiser American Lager Beer-12pk-10oz Cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Bud Light American Lager Beer Bottles - 18 - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Bud Light American Lager Beer in Bottle - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Corona Familiar Pale Lager Longneck Bottles,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:50,False
+Kona Big Wave Liquid Aloha Premium Golden Ale Cans,Classic Lager,Beer,keyword,0.9,0.2909090909090909,2026-05-22T10:56:43,False
+Bud Light Beer Bottles - 6-7 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:49,False
+Angry Orchard Tropical Fruit Cider-6pk-12oz Cans,Light Lager,Beer,keyword,0.9,0.3018867924528301,2026-05-22T10:56:41,False
+"Kona Big Wave Golden Ale, 12 oz, 12 pk",Classic Lager,Beer,keyword,0.9,0.3,2026-05-22T10:56:43,False
+"Corona Sunbrew Citrus Cerveza Mexican Import Beer, Orange- Lime (12 x 12 fl oz)",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.3076923076923077,2026-05-22T11:10:03,False
+Budweiser American Lager Beer-15-16oz AlmBtls,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Bud Light American Lager Beer-6pk-7oz Btls,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:49,False
+Bud Light Beer In Cans - 12-8 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:49,False
+Bud Light Platinum 6% ABV Beer In Slim Cans - 18-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+Angry Orchard Crisp Apple Hard Cider-12pk-12oz Btls,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:39,False
+Goose Island Bourbon County Brand Stout-1/6 Keg,Craft Beer,Beer,keyword,0.9,0.2307692307692308,2026-05-22T11:12:59,False
+Angry Orchard Peach Mango Hard Cider-6pk-12oz Cans,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:40,False
+Coors Light American Light Lager Can (12 oz x 18 ct),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Four Peaks Golden Lager Bottles - 6-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:11:05,False
+Corona Light Mexican Lager Light Beer 4.0% ABV Bottle - 12-12 Fl. Oz.,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.417910447761194,2026-05-22T11:09:56,False
+Budweiser American Lager Beer-1/2 Keg,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+"Dos Equis Mexican Lager Import Beer, 18 pack, 12 fl oz Bottles",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:28,False
+Dos Equis Ambar Mexican Lager Beer Bottles - 12-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:28,False
+Four Peaks Peach Ale-12pk-12oz Btls,Craft Beer,Beer,keyword,0.9,0.263157894736842,2026-05-22T11:11:14,False
+Golden Road Hazy Heal the Bay IPA Cans - 6-12 Fl. Oz.,Classic Lager,Beer,keyword,0.9,0.2758620689655173,2026-05-22T11:12:14,False
+Bud Light Next Light Beer In Cans - 6-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+Corona Familiar Mexican Lager Import Beer 32 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:50,False
+Golden Road Brewing Mango Cart Beer In Cans - 12-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:02,False
+"Beck's Beer 4 Pack, 16 fl oz 1 Cans, 5% ABV",Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:47,False
+Four Peaks Session Tropic Short Hop IPA Bottles - 6-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.2153846153846153,2026-05-22T11:11:19,False
+Carlsberg Danish Pilsner Beer (6 x 11.2 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Bud Light American Lager Beer-1/2 Keg,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Budweiser American Lager Beer 12 pack 12 fl oz Glass Bottles 5% ABV,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Angry Orchard Crisp Imperial Hard Cider Beer (6 x 12 fl oz),Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:39,False
+Budweiser American Lager Bottles,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Golden Road Ride On 10 Hop Hazy IPA-12pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.2857142857142857,2026-05-22T11:12:33,False
+Elysian Full Contact Imperial Hazy IPA Beer - 19.2 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:31,False
+"Bud Ice Premium Lager Beer, 3 pack 25 oz",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Four Peaks Hop Knot IPA-15pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.2727272727272726,2026-05-22T11:11:05,False
+Budweiser Select Domestic Lager Beer,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:19,False
+Budweiser Beer Bottles - 12-16 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Golden Road Brewing Mango Cart Wheat Ale Craft Beer 12 fl oz,Craft Beer,Beer,keyword,0.9,1.0,2026-05-22T11:12:02,False
+Budweiser American Lager Beer in Bottle - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Corona Extra Lager Mexican Beer Can - 24 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Heineken Original Imported Lager Bottles,Light Lager,Beer,keyword,0.9,0.625,2026-05-11T13:56:56,False
+Four Peaks Hop Knot IPA-16oz Can,Light Lager,Beer,keyword,0.9,0.2564102564102563,2026-05-22T11:11:05,False
+Bud Light Platinum American Lager Beer in Cans - 12 - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:01,False
+Budweiser Beer Bottles,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Four Peaks Peach Ale-1/6 Keg,Craft Beer,Beer,keyword,0.9,0.303030303030303,2026-05-22T11:11:14,False
+Lagunitas IPA Beer Single 19.2 fl oz Can 6.2% Alcohol by Volume,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-11T13:56:56,False
+"Beck's German Beer, 6 Pack Beer, 12 fl oz Glass Bottles, 4.8% ABV",Craft Beer,Beer,keyword,0.9,0.2641509433962264,2026-05-22T10:56:47,False
+"Golden Road Brewing Ride on Craft IPA Variety Pack, Assorted ABV, 12 Pack, 12 fl oz Aluminum Cans, 7.0% ABV",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2201834862385321,2026-05-22T11:12:02,False
+Four Peaks Pumpkin Porter-12pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.3043478260869565,2026-05-22T11:11:19,False
+Coors Light Beer 1/2 Barrel Keg - 15.5 Gallon,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:48,False
+Budweiser Beer Holiday Pint Glasses 532 ml,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Bitburger/Sierra Nevada Triple Hop'd Lager-6pk-11oz Cans,Craft Beer,Beer,keyword,0.9,0.3,2026-05-22T10:56:47,False
+Bud Light Lemonade Lemonade Domestic Beer 12 Pack 12 fl oz Aluminum Cans 4.2% ABV,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:56,False
+Stella Artois Cidre European Style Hard Cider In Bottles - 6-12 Fl. Oz.,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:43,False
+DNU Lagunitas Willet Brl Aged Imperial Stout-4pk-12oz Btls,Light Lager,Beer,keyword,0.9,0.2857142857142857,2026-05-22T11:10:16,False
+Goose Island Beer Hug IPA Mixed Twelver Cans - 12-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+"Beck's Beer “Made in the USA with heavy gauge steel""",Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:47,False
+Golden Road Fruit Cart Hard Seltzer Variety Pack-12pk-12oz Cans,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T11:12:07,False
+"Budweiser American Lager Beer 12 Pack, 12 Fl Oz Bottles 12 fl oz",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+"Budweiser Beer, 15 Pack 16 fl. oz. Aluminum Bottles, 5% ABV, Domestic Lager, 5.0% ABV",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2077922077922077,2026-05-22T10:57:04,False
+Bud Light Fuego Beer - 25 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:51,False
+Bud Light American Lager Beer 7.5oz-24-7.5cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Crooked Thumb Rule #7 Hurricane Pale Ale-4pk-16oz Cans,Classic Lager,Beer,keyword,0.9,0.2950819672131148,2026-05-22T11:10:16,False
+Corona Extra Mexican Lager Import Beer Bottle 24 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:34,False
+Budweiser King Of Beer (6 x 12 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:14,False
+Carlsberg Premium Danish Pilsner Beer (4 x 16.9 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Bud Light 3.2% ABV Beer Keg - 15.5 Gallon,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:48,False
+Golden Road Ride On Tropical IPA-6pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.3018867924528301,2026-05-22T11:12:33,False
+Beck's German Beer Bottles - 6-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:47,False
+Goose Island Bourbon County Brand Angel's Envy Reserve Stout 16.9z bottle,Craft Beer,Beer,keyword,0.9,0.1866666666666667,2026-05-22T11:12:59,False
+Goose Island Big Juicy Beer Hug-6pk-12oz Cans,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+Golden Road Whose House Blonde Ale Cans - 15-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.2413793103448276,2026-05-22T11:12:46,False
+Bud Ice Premium American Lager Beer (25 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+"Estrella Jalisco Mexican Pale Lager Beer (24 ct, 12 fl oz)",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:40,False
+Bud Light Orange Beer Bottles - 12-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+"Goose Island Bourbon County Brand Fourteen Stout, 2021-16.9oz Btl",Craft Beer,Beer,keyword,0.9,0.1944444444444444,2026-05-22T11:12:59,False
+"Budweiser American Lager Beer 12 Pack, 16 Fl Oz Cans 16 fl oz",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Cisco Whales Tale Pale Ale-1/2 Keg,Variety Packs,Beer,keyword,0.9,0.3333333333333332,2026-05-22T10:57:43,False
+Goose Island Beer Co. So-Lo 98 Calorie IPA,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+Budweiser Chelada Picante Beer Single Can 25 fl oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:06,False
+Goose Island Big Juicy Beer Hug Imperial Ipa (6 x 12 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+White Claw Surge Hard Seltzer Grape 19.2 fl oz,Hard Seltzers,Hard Beverage,keyword,0.9,0.5,2026-05-22T10:56:46,False
+"Cisco Brewers Whale's Tale Pale Ale Craft Beer, 12 Pack, 12 fl. oz. Cans, 5.6% ABV",Craft Beer,Beer,keyword,0.9,0.6666666666666665,2026-05-22T10:57:26,False
+Corona Refresca Mas Mango Citrus Spiked Tropical Cocktail Can 8.0% ABV - 24 Fl. Oz.,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2391304347826087,2026-05-22T11:10:01,False
+Budweiser King Of Beers Lager Beer (12 x 16 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Coors Light Aluminum Can Beer,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:48,False
+Budweiser Beer Cans - 12 x 12 fl oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Corona Sunbrew-24oz Can,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2162162162162162,2026-05-22T11:10:03,False
+Carlsberg Danish Pilsner Beer (1.8 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Topo Chico Spiked Sparkling Water Hard Seltzer Variety pack Tangy Lemon Lime Tropical Mango Strawberry Guava Exotic Pineapple (24 x 12 fl oz),Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-11T13:56:56,False
+Golden Road Mango Cart Beer 6 pk / 12 fl oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:19,False
+Busch American Lager Beer (25 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:26,False
+"Budweiser Beer, 12 Pack 16 fl. oz. Aluminum Cans, 5% ABV, Domestic Lager",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Devils Backbone O'Fest Lager-1/2 Keg,Variety Packs,Beer,keyword,0.9,0.409090909090909,2026-05-22T11:10:21,False
+Angry Orchard Hard Cider Fall Variety Pack-12pk-12oz Cans,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Corona Beer Bottle Bluetooth Beer Bottle Speaker Bluetooth Bottle Speaker Portable Speaker Portable Travel,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:09:22,False
+"Corona Premier Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.0% ABV",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.3714285714285714,2026-05-22T11:09:58,False
+"Budweiser Lager Beer 32 fl oz 1 Glass Bottle, Domestic Lager, 5% ABV",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Coors Light American Style Lager Cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Bud Light Beer Bottle - 18 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:49,False
+Bud Ice Premium Lager Bottle,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Bud Light NEXT Zero Carbs American Lager Beer in Cans - 12 - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:01,False
+Coors Light American Lager Beer (12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Golden Road Ride On Imperial IPA-19oz cans,Classic Lager,Beer,keyword,0.9,0.3137254901960784,2026-05-22T11:12:33,False
+Bud Light American Lager Beer (8 x 16 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+"Golden Road Wheat Ale Mango Cart Beer 25 fl oz 1 Tall Can, 4% ABV",Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:46,False
+Corona Familiar Import Mexican Lager Can,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:49,False
+"Corona Extra Mexican Lager Beer, 24 fl oz Can, 4.6% ABV",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:34,False
+Budweiser Lager Beer Keg - 15.5 Gallon,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Coors Light Lager Beer (12 x 16 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:53,False
+Cisco Whales Tale Pale Ale-6pk-12oz Btls,Classic Lager,Beer,keyword,0.9,0.3404255319148936,2026-05-22T10:57:43,False
+Corona Sunbrew Citrus Cerveza Fruit Beer (24 fl oz),Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.3636363636363636,2026-05-22T11:10:03,False
+Bud Light Beer Cans,Craft Beer,Beer,keyword,0.9,0.6086956521739131,2026-05-22T10:56:49,False
+Chelada Budweiser Original American Chelada Beer 25 fl oz 1 Aluminum Can 5% ABV,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Lemon Lime Beats 6-pack (Non-Alcoholic Beer),Variety Packs,Beer,keyword,0.9,0.3157894736842105,2026-05-22T10:56:43,False
+"Budweiser Beer, 15 Pack Beer, 12 fl oz Aluminum Cans, 5 % ABV, Domestic Lager",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Coors Light American Style Light Lager Beer 4.2% ABV Cans - 18-16 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Budweiser Select 4.3% ABV Light Beer In Bottles - 6-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:16,False
+Heineken® 0.0% Alcohol Free Cold Pressed Lime Flavored Brew,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2337662337662337,2026-05-22T10:56:43,False
+"Budweiser Beer, 40 fl oz 1 Glass Bottle, Domestic Lager, 5% ABV",Classic Lager,Beer,keyword,0.9,0.3448275862068965,2026-05-22T10:57:04,False
+Budweiser Beer In Cans - 20-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Budweiser American Lager Beer 20 Pack 12 fl oz Glass Bottles 5% ABV,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Budweiser American Lager Beer-25oz Can,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Angry Orchard Crisp Imperial Hard Cider Beer,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:39,False
+Bud Light Lime American Lager Beer in Cans - 12 - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:58,False
+Coors Light Cold As the Rockies Lager Beer (6 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:49,False
+"Beck's Non-Alcoholic Beer (6ct, 12 oz)",Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:47,False
+Coors Golden Banquet Lager Beer (6 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:43,False
+Budweiser American Lager Beer-12pk-12oz Btls,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Bud Light Lager Beer 30 cans / 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:53,False
+Golden Road Fruit Cart Mixer Beer,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:07,False
+Budweiser American Style Lager Beer (25 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:04,False
+Stella Artois Cidre European Style Hard Cider 6 pk / 12 fl oz,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:43,False
+Coors Light American Lager Beer Bottles,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Bud Light American Lager Beer-15-16oz AlmBtls,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Budweiser Beer Bottles - 24 x 12 fl oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+Four Peaks Hazy IPA-12pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.3,2026-05-22T11:11:05,False
+"Budweiser Beer, 18 Pack Beer, 12 fl oz Glass Bottles, 5.0% ABV, Domestic Lager",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.25,2026-05-22T10:57:04,False
+Budweiser American Lager Beer 24 pk Cans 12 oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Budweiser Select American Light Beer-12pk-12oz Cans,Craft Beer,Beer,keyword,0.9,0.3414634146341463,2026-05-22T10:57:19,False
+"Busch American Lager Beer 12 Pack, 12 Fl Oz Cans 12 fl oz",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:26,False
+"Bud Ice Cerveza Pack de 12 12 fl. Onz. Botellas, 5.5% Vol.",Craft Beer,Beer,keyword,0.9,0.2153846153846153,2026-05-22T10:56:47,False
+Corona Familiar Imported Mexican Lager Bottle,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:49,False
+"Bud Ice Beer, 6 Pack, 16 fl. oz. Can, 5.5% ABV",Craft Beer,Beer,keyword,0.9,0.3414634146341463,2026-05-22T10:56:47,False
+"Beck's Pilsner Beer, 12 pack 12 fl. oz. Glass Bottles, 5.0% ABV, 4.8% ABV",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2432432432432432,2026-05-22T10:56:47,False
+Bud Light American Lager Beer in Can - 25 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Devils Backbone Vienna Lager-12pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.4081632653061224,2026-05-22T11:10:23,False
+Corona Mexican Lager Beer (18 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:56,False
+Bud Light American Lager Beer 7.5oz-12-7.5oz cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Elysian Dank Dust India Pale Ale Beer Bottle - 12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:31,False
+"Angry Orchard Crisp Apple Craft Hard Cider, 6 pack, 12 fl oz Glass Bottles, 5% ABV",Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:39,False
+Ghost Train Gulf Coast IPA-6pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3404255319148936,2026-05-22T11:12:00,False
+"Dos Equis Mexican Lager Beer, 12 Pack, 12 fl oz Bottles",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:10:28,False
+Bud Light Platinum American Lager Beer 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:01,False
+Four Peaks Rattle On Red Ale-15pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.3265306122448979,2026-05-22T11:11:19,False
+Bud Light American Lager Beer-24-10oz Can,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Budweiser Lager Cans (12 oz x 18 ct),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Four Peaks 8th Street Ale-6pk-12oz Btls,Variety Packs,Beer,keyword,0.9,0.3478260869565217,2026-05-22T11:10:49,False
+Budweiser Select 4.3% ABV Light Beer In Cans - 30-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:16,False
+Corona Extra Imported Mexican Lager Beer (12 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Coors Light American Lager Beer Can,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+"Corona Extra Mexican Lager Beer, 12 pk 12 fl oz Bottles, 4.6% ABV",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Corona Familiar Mexican Lager Beer (12 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:49,False
+"Budweiser American Lager Beer 15 Pack, 16 Fl Oz Aluminum Bottles 16 fl oz",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Corona Extra Import Mexican Lager Bottle,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Four Peaks 8th St Ale-1/6 Keg,Variety Packs,Beer,keyword,0.9,0.3243243243243243,2026-05-22T11:10:49,False
+Cisco Summer Rays Golden Ale-6pk-12oz Btls,Classic Lager,Beer,keyword,0.9,0.3673469387755102,2026-05-22T10:57:38,False
+Busch Beer (12 x 12 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Four Peaks Peach Golden Ale Bottles - 6-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.2307692307692308,2026-05-22T11:11:14,False
+Budweiser Lager Domestic Beer 8 Pack 16 fl oz Aluminum Bottles 5.0% ABV,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.3636363636363636,2026-05-22T10:57:14,False
+Corona Premier Mexican Lager Light Beer Bottles 12 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:58,False
+Angry Orchard Party Pack Seasonal Variety Hard Cider Cans - 12-12 Fl. Oz.,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Estrella Jalisco Mexican Beer 24 pk Bottles 12 oz,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:10:40,False
+Corona Citrus Cerveza Sunbrew Import Mexican Beer Can,Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.375,2026-05-22T11:09:27,False
+Cisco Whales Tale Pale Ale-12pk-12oz Cans,Classic Lager,Beer,keyword,0.9,0.3829787234042554,2026-05-22T10:57:43,False
+White Claw Gluten Free Cranberry Surge Hard Seltzer Can (19.2 fl oz),Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:45,False
+Golden Road Big Hazy Wolf IPA-19oz cans,Classic Lager,Beer,keyword,0.9,0.2916666666666667,2026-05-22T11:12:02,False
+Coors Banquet Lager Beer (30 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:43,False
+Ghost Hawk Lager-4pk-16oz Cans,Classic Lager,Beer,keyword,0.9,0.5405405405405406,2026-05-22T11:11:49,False
+Bud Light Lime American Lager Beer in Bottles - 12 - 12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:58,False
+Stella Artois Cidre Hard Cider-12pk-12oz Btls,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T10:56:43,False
+Golden Road Belgian White Craft Beer 6 pack 12 fl oz Glass Bottles 5% ABV,Craft Beer,Beer,keyword,0.9,1.0,2026-05-22T11:12:00,False
+"Corona Sunbrew Citrus Cerveza Mexican Import Beer, 12 Pack 12 fl. oz. Bottles, 4.5% ABV",Non-alcoholic Beer,Non-alcoholic Beer,keyword,0.9,0.2962962962962963,2026-05-22T11:10:03,False
+Budweiser Beer Bottle - 40 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:04,False
+"Corona Lager Mexican Beer, 1925 (12 x 12 fl oz)",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:56,False
+"Busch Light American Lager Beer, 6 pack 16 oz",Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:26,False
+Ghost Town Inhume IPA-4pk-16oz Cans,Classic Lager,Beer,keyword,0.9,0.3333333333333332,2026-05-22T11:11:57,False
+Michelob ULTRA Superior Light American Lager Beer 32 fl oz Bottle 4.2% ABV,Light Lager,Beer,keyword,0.9,0.625,2026-05-11T13:56:56,False
+Budweiser American Lager Beer in Can - 25 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Goose Island Beer Hug Mixed Pack-12pk-12oz Cans,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+Budweiser Select 4.3% ABV Light Beer In Bottles - 18-12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:16,False
+Goose Island Big Juicy Beer Hug-19oz Can,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T11:12:59,False
+Budweiser Lager Beer In Cans - 12-10 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:14,False
+Coors Light American Light Lager Beer Single Can 24 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:48,False
+Angry Orchard Hard Cider Summer Party Pack Variety Beer,Cider,Hard Beverage,keyword,0.9,1.0,2026-05-22T10:56:40,False
+Budweiser American Lager Beer 25 Fl Oz Can 25 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Corona Light Mexican Lager Beer (12 x 12 fl oz),Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:56,False
+Carlsberg Elephant Strong Beer (11.2 fl oz),Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Busch American Lager Beer-12pk-12oz Cans,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:26,False
+Four Peaks Sun Day Lime Hard Seltzer-6pk-12oz Cans,Hard Seltzers,Hard Beverage,keyword,0.9,0.4705882352941177,2026-05-22T11:11:19,False
+Golden Road Get On Board Hazy IPA-6pk-12oz Cans,Variety Packs,Beer,keyword,0.9,0.2592592592592592,2026-05-22T11:12:11,False
+Corona Extra Coronita Mexican Lager Import Beer,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:27,False
+"Goose Island Bourbon County Brand Coffee Stout, 2022-16.9oz Btl",Craft Beer,Beer,keyword,0.9,0.2,2026-05-22T11:12:59,False
+Corona Extra Lager Mexican Beer Cans Multipack 4.6% ABV - 24-12 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T11:09:33,False
+Beck's Pilsner Beer Bottle - 12 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:47,False
+Bud Light 4.2% ABV Beer In Cans - 24-10 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:56:48,False
+Budweiser American Lager Beer in Cans - 6 - 16 Fl. Oz.,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:57:03,False
+Bud Light Mango Beer - 25 Fl. Oz.,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:01,False
+Busch Beer Cans,Craft Beer,Beer,keyword,0.9,0.5714285714285715,2026-05-22T10:57:26,False
+Bud Light American Lager Beer-12-16ozAlmBtl,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:48,False
+Four Peaks Pumpkin Porter-1/6 Keg,Variety Packs,Beer,keyword,0.9,0.3414634146341463,2026-05-22T11:11:19,False
+Bud Light American Light Lager Beer 16 fl oz,Light Lager,Beer,keyword,0.9,0.625,2026-05-22T10:56:49,False
+"Goose Island Bourbon County Classic Cola Stout, 2021-16.9oz Btl",Light Lager,Beer,keyword,0.9,0.2222222222222223,2026-05-22T11:13:00,False

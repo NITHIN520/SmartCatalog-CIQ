@@ -1,0 +1,23 @@
+# Core ML
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+numpy>=1.26.0
+pandas>=2.2.0
+
+# NLP / Similarity (lightweight, no GPU needed)
+# sentence-transformers and faiss-cpu replaced by sklearn cosine similarity
+
+# LLM
+openai>=1.30.0
+python-dotenv>=1.0.0
+
+# Fuzzy matching
+rapidfuzz>=3.8.0
+
+# Serialization / Persistence
+joblib>=1.4.0
+
+# Utilities
+rich>=13.7.0
+typer>=0.12.0
+tqdm>=4.66.0

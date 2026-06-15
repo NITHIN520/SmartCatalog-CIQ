@@ -1,0 +1,47 @@
+[
+  {
+    "product_name": "Craft Beer",
+    "predicted_sub_category": "Craft Beer",
+    "category": "Beer"
+  },
+  {
+    "product_name": "Variety Packs",
+    "predicted_sub_category": "Variety Packs",
+    "category": "Beer"
+  },
+  {
+    "product_name": "Classic Lager",
+    "predicted_sub_category": "Classic Lager",
+    "category": "Beer"
+  },
+  {
+    "product_name": "Light Lager",
+    "predicted_sub_category": "Light Lager",
+    "category": "Beer"
+  },
+  {
+    "product_name": "Cider",
+    "predicted_sub_category": "Cider",
+    "category": "Hard Beverage"
+  },
+  {
+    "product_name": "Hard Seltzers",
+    "predicted_sub_category": "Hard Seltzers",
+    "category": "Hard Beverage"
+  },
+  {
+    "product_name": "Ready to Drink",
+    "predicted_sub_category": "Ready to Drink",
+    "category": "Hard Beverage"
+  },
+  {
+    "product_name": "Flavored Hard Beverages",
+    "predicted_sub_category": "Flavored Hard Beverages",
+    "category": "Hard Beverage"
+  },
+  {
+    "product_name": "Non-alcoholic Beer",
+    "predicted_sub_category": "Non-alcoholic Beer",
+    "category": "Non-alcoholic Beer"
+  }
+]
